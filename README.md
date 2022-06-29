@@ -1,2 +1,2 @@
 # _Egyptian-PharaohsFaceRecognition
-Face recognition of ancient Egypt pharaohs sculptures using OpenCV python 
+Face recognition for ancient Egypt pharaohs sculptures using OpenCV python 
